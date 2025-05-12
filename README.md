@@ -62,8 +62,7 @@ The system:
 ### Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd vyb-ai-assignment
+git clone https://github.com/Prateek-Fst/NutritionGenerator.git
 ```
 
 ### Install Dependencies
