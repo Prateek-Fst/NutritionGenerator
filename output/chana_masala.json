@@ -1,0 +1,11 @@
+{
+  "dishName": "Chana masala",
+  "dishType": "Dals",
+  "nutritionPerServing": {
+    "energy_kj": 912,
+    "energy_kcal": 218,
+    "carb_g": 38.05,
+    "protein_g": 11.25
+  },
+  "servingWeight": 150
+}

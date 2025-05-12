@@ -1,0 +1,11 @@
+{
+  "dishName": "Gobhi Sabzi",
+  "dishType": "Veg Fry",
+  "nutritionPerServing": {
+    "energy_kj": 151.25,
+    "energy_kcal": 36.25,
+    "carb_g": 7.85,
+    "protein_g": 1.675
+  },
+  "servingWeight": 100
+}

@@ -1,0 +1,11 @@
+{
+  "dishName": "Aloo Gobi",
+  "dishType": "Veg Fry",
+  "nutritionPerServing": {
+    "energy_kj": 184.83606557377047,
+    "energy_kcal": 44.26229508196721,
+    "carb_g": 9.832786885245902,
+    "protein_g": 1.6360655737704914
+  },
+  "servingWeight": 100
+}

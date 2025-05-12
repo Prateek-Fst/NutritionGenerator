@@ -1,0 +1,11 @@
+{
+  "dishName": "Mixed veg",
+  "dishType": "Veg Gravy",
+  "nutritionPerServing": {
+    "energy_kj": 298.5,
+    "energy_kcal": 71.5,
+    "carb_g": 16.05,
+    "protein_g": 2.4
+  },
+  "servingWeight": 150
+}

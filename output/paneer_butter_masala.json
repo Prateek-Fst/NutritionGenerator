@@ -1,0 +1,11 @@
+{
+  "dishName": "Paneer Butter Masala",
+  "dishType": "Other",
+  "nutritionPerServing": {
+    "energy_kj": 1098.3214285714284,
+    "energy_kcal": 262.3928571428571,
+    "carb_g": 5.807142857142857,
+    "protein_g": 9.128571428571428
+  },
+  "servingWeight": 150
+}

@@ -1,0 +1,11 @@
+{
+  "dishName": "Jeera Aloo (mild fried)",
+  "dishType": "Veg Fry",
+  "nutritionPerServing": {
+    "energy_kj": 371.86084577353233,
+    "energy_kcal": 88.91542264676235,
+    "carb_g": 18.567589881438103,
+    "protein_g": 2.6317573081169297
+  },
+  "servingWeight": 100
+}

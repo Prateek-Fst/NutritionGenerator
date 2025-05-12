@@ -1,0 +1,11 @@
+{
+  "dishName": "Paneer Curry with capsicum",
+  "dishType": "Veg Gravy",
+  "nutritionPerServing": {
+    "energy_kj": 969.6666666666666,
+    "energy_kcal": 233.5,
+    "carb_g": 3.833333333333333,
+    "protein_g": 15.849999999999998
+  },
+  "servingWeight": 150
+}

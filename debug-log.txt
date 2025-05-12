@@ -1,0 +1,4 @@
+2025-05-12T03:15:09.729Z - Assumption: Classified 'Mixed veg' as 'Veg Gravy' based on name match.
+2025-05-12T03:15:09.729Z - Assumption: Mapped synonym 'Potato' to 'potato'.
+2025-05-12T03:15:09.729Z - Assumption: Mapped synonym 'Cauliflower' to 'cauliflower'.
+2025-05-12T03:15:09.729Z - Assumption: Mapped synonym 'Carrot' to 'carrot'.

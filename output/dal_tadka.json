@@ -1,0 +1,11 @@
+{
+  "dishName": "Dal Tadka",
+  "dishType": "Dals",
+  "nutritionPerServing": {
+    "energy_kj": 1069.6818181818182,
+    "energy_kcal": 254.2272727272727,
+    "carb_g": 34.78181818181818,
+    "protein_g": 12.190909090909091
+  },
+  "servingWeight": 150
+}
